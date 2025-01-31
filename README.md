@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👯 I'm looking to collaborate on Python tools.  I'm also learning Rust.
+- 👯  I'm looking to collaborate on Python tools.  Am also learning Rust.
 
 <!--
 **mixmastamyk/mixmastamyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
